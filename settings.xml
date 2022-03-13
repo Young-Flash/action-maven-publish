@@ -19,6 +19,10 @@
 			</properties>
 		</profile>
 	</profiles>
+	
+	<snapshots>
+　　<enabled>true</enabled>
+	</snapshots>
 
 	<servers>
 		<!-- Sonatype OSSRH credentials -->
